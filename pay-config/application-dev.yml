@@ -1,2 +1,2 @@
 spring:
-  thymeleaf: dev
+  thymeleaf: dev-1.0
